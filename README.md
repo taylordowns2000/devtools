@@ -1,4 +1,4 @@
-# _⚠️ Replaced by [OpenFn/kit/packages/cli](https://github.com/OpenFn/kit/tree/main/packages/cli)! ⚠️_
+# _⚠️ Replaced by [OpenFn/kit/packages/cli](https://github.com/OpenFn/kit/tree/main/packages/cli)_
 
 # OpenFn/devtools (archived)
 
